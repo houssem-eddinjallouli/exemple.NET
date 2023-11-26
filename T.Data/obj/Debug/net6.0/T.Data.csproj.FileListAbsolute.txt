@@ -1,0 +1,17 @@
+C:\Users\houss\source\houssem\testrev\T.Data\bin\Debug\net6.0\T.Data.deps.json
+C:\Users\houss\source\houssem\testrev\T.Data\bin\Debug\net6.0\T.Data.runtimeconfig.json
+C:\Users\houss\source\houssem\testrev\T.Data\bin\Debug\net6.0\T.Data.dll
+C:\Users\houss\source\houssem\testrev\T.Data\bin\Debug\net6.0\T.Data.pdb
+C:\Users\houss\source\houssem\testrev\T.Data\bin\Debug\net6.0\T.Core.Domaine.dll
+C:\Users\houss\source\houssem\testrev\T.Data\bin\Debug\net6.0\T.Core.Domaine.pdb
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.csproj.AssemblyReference.cache
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.AssemblyInfoInputs.cache
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.AssemblyInfo.cs
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.csproj.CoreCompileInputs.cache
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.csproj.CopyComplete
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.dll
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\refint\T.Data.dll
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.pdb
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\T.Data.genruntimeconfig.cache
+C:\Users\houss\source\houssem\testrev\T.Data\obj\Debug\net6.0\ref\T.Data.dll

@@ -1,0 +1,11 @@
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\bin\Debug\net6.0\T.Core.Domaine.deps.json
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\bin\Debug\net6.0\T.Core.Domaine.dll
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\bin\Debug\net6.0\T.Core.Domaine.pdb
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\T.Core.Domaine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\T.Core.Domaine.AssemblyInfoInputs.cache
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\T.Core.Domaine.AssemblyInfo.cs
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\T.Core.Domaine.csproj.CoreCompileInputs.cache
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\T.Core.Domaine.dll
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\refint\T.Core.Domaine.dll
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\T.Core.Domaine.pdb
+C:\Users\houss\source\houssem\testrev\T.Core.Domaine\obj\Debug\net6.0\ref\T.Core.Domaine.dll
