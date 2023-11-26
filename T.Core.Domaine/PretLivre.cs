@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace T.Core.Domaine
-{//class de relation
+{
     public class PretLivre
     {
         public DateTime DateFin { get; set; }

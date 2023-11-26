@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\houss\\source\\houssem\\testrev\\T.Core.Domaine\\T.Core.Domaine.csproj": {}
+    "C:\\Users\\houss\\source\\houssem\\testrev\\exemple.NET\\T.Core.Domaine\\T.Core.Domaine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\houss\\source\\houssem\\testrev\\T.Core.Domaine\\T.Core.Domaine.csproj": {
+    "C:\\Users\\houss\\source\\houssem\\testrev\\exemple.NET\\T.Core.Domaine\\T.Core.Domaine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\houss\\source\\houssem\\testrev\\T.Core.Domaine\\T.Core.Domaine.csproj",
+        "projectUniqueName": "C:\\Users\\houss\\source\\houssem\\testrev\\exemple.NET\\T.Core.Domaine\\T.Core.Domaine.csproj",
         "projectName": "T.Core.Domaine",
-        "projectPath": "C:\\Users\\houss\\source\\houssem\\testrev\\T.Core.Domaine\\T.Core.Domaine.csproj",
+        "projectPath": "C:\\Users\\houss\\source\\houssem\\testrev\\exemple.NET\\T.Core.Domaine\\T.Core.Domaine.csproj",
         "packagesPath": "C:\\Users\\houss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\houss\\source\\houssem\\testrev\\T.Core.Domaine\\obj\\",
+        "outputPath": "C:\\Users\\houss\\source\\houssem\\testrev\\exemple.NET\\T.Core.Domaine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
